@@ -2580,7 +2580,7 @@ textarea.form-control {
 }
 
 .was-validated .custom-control-input:invalid ~ .custom-control-label::before, .custom-control-input.is-invalid ~ .custom-control-label::before {
-  border-color: #F85C70;
+  border-color: #be8cff;
 }
 
 .was-validated .custom-control-input:invalid ~ .invalid-feedback,
