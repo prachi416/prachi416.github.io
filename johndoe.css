@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #be8cff;
   text-decoration: none;
   background-color: transparent;
 }
@@ -3059,7 +3059,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #F85C70;
+  color: #be8cff;
   background-color: transparent;
 }
 
@@ -3219,15 +3219,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
-  color: #F85C70;
+  color: #be8cff;
   background-color: transparent;
 }
 
 .btn-outline-danger:not(:disabled):not(.disabled):active, .btn-outline-danger:not(:disabled):not(.disabled).active,
 .show > .btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color: #be8cff;
+  border-color: #be8cff;
 }
 
 .btn-outline-danger:not(:disabled):not(.disabled):active:focus, .btn-outline-danger:not(:disabled):not(.disabled).active:focus,
@@ -3301,7 +3301,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #F85C70;
+  color: #be8cff;
   text-decoration: none;
 }
 
@@ -4307,7 +4307,7 @@ input[type="button"].btn-block {
   width: 1rem;
   height: 1rem;
   margin-top: -0.25rem;
-  background-color: #F85C70;
+  background-color: #be8cff;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4524,7 +4524,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #F85C70;
+  background-color: #be8cff;
 }
 
 .nav-fill .nav-item {
@@ -5931,8 +5931,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color:#be8cff;
+  border-color: #be8cff;
 }
 
 .list-group-horizontal {
@@ -10777,7 +10777,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #F85C70 !important;
+  color: #be8cff !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
