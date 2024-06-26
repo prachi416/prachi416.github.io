@@ -11684,13 +11684,13 @@ pre .code {
 }
 .carousel-container {
     max-width: 80%; /* Adjust container width as needed */
-    max-height: 200px; /* Maximum height for each image */
+    max-height: 50px; /* Maximum height for each image */
     overflow: hidden; /* Ensure images don't overflow */
     margin: 0 auto; /* Center the carousel horizontally */
 }
 
 .carousel-item img {
-    height: 200px; /* Set maximum height for all images */
+    height: 50px; /* Set maximum height for all images */
     object-fit: cover; /* Maintain aspect ratio and cover container */
 }
 
