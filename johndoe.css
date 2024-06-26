@@ -11664,7 +11664,10 @@ pre .code {
   padding: 35px;
   background: #fff;
   min-height: 500px;
+
 }
+.contact-info-card a:hover {
+        color: #BE8CFF;}
 
 .contact .contact-info-card {
   padding-right: 20px;
