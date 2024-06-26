@@ -11686,7 +11686,7 @@ pre .code {
   margin-top: 10px;
 }
 .carousel-container {
-    max-width: 60%; /* Adjust container width as needed */
+    max-width: 100%; /* Adjust container width as needed */
     max-height: 400px; /* Maximum height for each image */
     overflow: hidden; /* Ensure images don't overflow */
     margin: 0 auto; /* Center the carousel horizontally */
@@ -11694,6 +11694,7 @@ pre .code {
 
 .carousel-item img {
     height: 400px; /* Set maximum height for all images */
-    max-width: 60%; /* Ensure images don't exceed carousel container width */
+    width: auto;
+    max-width: 100%; /* Ensure images don't exceed carousel container width */
     object-fit: cover; /* Maintain aspect ratio and cover container */
 }
